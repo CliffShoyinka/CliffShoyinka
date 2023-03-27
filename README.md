@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ![CliffShoyinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliffShoyinka&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CliffShoyinka&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CliffShoyinka&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,spring,eclipse,postgres,hibernate,vscode,html,css,figma,photoshop,illustrator,git,github,discord,&theme=dark)](https://skillicons.dev)
 
