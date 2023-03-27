@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&hide_progress=true)](https://github.com/CliffShoyinka/github-readme-stats)
+
 
 ![CliffShoyinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliffShoyinka&show_icons=true&theme=tokyonight)
 
