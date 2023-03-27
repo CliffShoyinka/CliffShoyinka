@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&hide_progress=true)](https://github.com/CliffShoyinka/github-readme-stats)
+
 ![CliffShoyinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliffShoyinka&show_icons=true&theme=tokyonight)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CliffShoyinka&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
