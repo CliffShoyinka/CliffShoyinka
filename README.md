@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/mehmethan bellek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmethan bellek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cliff-shoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmethan bellek" height="30" width="40" /></a>
 <a href="https://instagram.com/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cliffshoyinka" height="30" width="40" /></a>
 <a href="https://www.behance.net/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cliffshoyinka" height="30" width="40" /></a>
 </p>
