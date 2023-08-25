@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **bellekmehmethan@gmail.com**
 
-  Focused on Java with a total of 5 years of experience in the IT sector, encompassing university education and internships. Proficient in Java, web applications, and frontend technologies such as HTML, CSS, and JavaScript. Contribution made to a School Management project during an internship using Spring Boot and PostgreSQL, enhancing skills with Jira and team collaboration. An analytical approach and problem-solving abilities combined with strong communication skills stand out. Eager to advance in Full Stack Development with a keen interest in real-world projects.
+  Following university education, extensive experience in the IT sector was gained. As a backend role, key technologies like Java, Lambda, Spring Boot, and others are proficiently used. Beyond technical expertise, there's notable adaptability and a talent for motivating teams. Recognized as a positive influence, challenges are consistently overcome, ensuring high team morale. Immersed in the tech landscape, there's a dedication to continuous learning. Growth and evolution are evident with every project undertaken.
 
 ## 🌐 Socials:
 <p align="left">
