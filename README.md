@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **bellekmehmethan@gmail.com**
 
-  Following university education, extensive experience in the IT sector was gained. As a backend role, key technologies like Java, Lambda, Spring Boot, and others are proficiently used. Beyond technical expertise, there's notable adaptability and a talent for motivating teams. Recognized as a positive influence, challenges are consistently overcome, ensuring high team morale. Immersed in the tech landscape, there's a dedication to continuous learning. Growth and evolution are evident with every project undertaken.
+  Extensive experience in the IT sector was gained. As a backend role, key technologies like Java, Lambda, Spring Boot, and others are proficiently used. Beyond technical expertise, there's notable adaptability and a talent for motivating teams. Recognized as a positive influence, challenges are consistently overcome, ensuring high team morale. Immersed in the tech landscape, there's a dedication to continuous learning. Growth and evolution are evident with every project undertaken.
 
 ## 🌐 Socials:
 <p align="left">
