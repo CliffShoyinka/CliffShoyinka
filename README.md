@@ -3,8 +3,7 @@
 
 - 📫 How to reach me **bellekmehmethan@gmail.com**
 
-  Extensive experience in the IT sector was gained. As a backend role, key technologies like Java, Lambda, Spring Boot, and others are proficiently used. Beyond technical expertise, there's notable adaptability and a talent for motivating teams. Recognized as a positive influence, challenges are consistently overcome, ensuring high team morale. Immersed in the tech landscape, there's a dedication to continuous learning. Growth and evolution are evident with every project undertaken.
-
+  Experience has been gained in the field of software development using C#. Active roles have been taken in projects using ASP.Net technology and modern front-end toolkits. Work has been conducted using the MSSQL database. During the educational process, an internship was completed using Java, and during this period, familiarity was gained with the Spring Boot technology and experience was obtained with the PostgreSQL database. Through the ability to quickly adapt to new technologies, strong teamwork skills, and analytical thinking, successful results have been achieved in both individual and team projects.
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/cliff-shoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmethan bellek" height="30" width="40" /></a>
