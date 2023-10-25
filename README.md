@@ -31,16 +31,14 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
    </p>
 
-   <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/df/37/7a/df377a59d3079d7915b93ff2db93f9f0.gif"  />
-</div>
+   
 
 ###
 
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CliffShoyinka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="400" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CliffShoyinka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 
