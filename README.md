@@ -34,6 +34,7 @@
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&layout=compact&hide_border=true&langs_count=10&card_width=500&layout=compact&hide=html&theme=default_repocard)
+
 
 
