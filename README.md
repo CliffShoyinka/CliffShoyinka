@@ -34,36 +34,6 @@
 <br/>
 
 
-<div>
-    <a href="https://github.com/CliffShoyinka">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CliffShoyinka&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
-    </a>
-    <br>
-    <br>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://streak-stats.demolab.com?user=CliffShoyinka&theme=highcontrast&mode=weekly&exclude_days=Mon" />
-    </a>
-</div>
-<br>
-<div>
-    <a href="https://github.com/CliffShoyinka">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CliffShoyinka&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=10" />
-    </a>
-</div>
-<div>
- <hr/>
-    <h2> Stuff I worked on last week  
-        <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
-    </h2>
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CliffShoyinka&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
-    <hr/>
-      </br>
-    <a href="https://wakatime.com/@e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f">
-         <img src="https://wakatime.com/badge/user/e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f.svg" alt="Total time coded since Jan 19 2022" />
-    </a>
-    </br>
-    <p align="center">
-      <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@CliffShoyinka/0213d8c9-d802-4d88-b711-1a3e43e247f6.png"></a>
-    </p>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&layout=compact&hide_border=true)
+
 
