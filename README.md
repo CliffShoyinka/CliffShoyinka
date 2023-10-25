@@ -27,6 +27,12 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
    </p>
 
+   <div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/df/37/7a/df377a59d3079d7915b93ff2db93f9f0.gif"  />
+</div>
+
+###
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
