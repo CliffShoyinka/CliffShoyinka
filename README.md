@@ -32,7 +32,7 @@
    </p>
 
    <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/df/37/7a/df377a59d3079d7915b93ff2db93f9f0.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/df/37/7a/df377a59d3079d7915b93ff2db93f9f0.gif"  />
 </div>
 
 ###
