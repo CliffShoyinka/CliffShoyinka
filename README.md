@@ -11,6 +11,10 @@
 <a href="https://www.behance.net/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cliffshoyinka" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/LxMRzuaCrO7NHjhkwV/giphy.gif"  />
+</div>
+
 # 💻 Tech Stack:
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -35,7 +39,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CliffShoyinka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+<div align="center">
+  <img height="300" src="https://media3.giphy.com/media/wf4HoLAYT39FrbD7Gh/giphy.gif?cid=6c09b952q3ifcyoj1qev5bg63qn4e7hq2pjwpb0w8j5f78kd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+</div>
+
+
 
 
 
