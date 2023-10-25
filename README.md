@@ -31,10 +31,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffShoyinka&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
 
-
-[![Mehmethan'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?CliffShoyinka=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
