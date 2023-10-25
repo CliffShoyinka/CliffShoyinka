@@ -34,7 +34,7 @@
 <br/>
 
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/apiCliffShoyinka=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehmethan'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?CliffShoyinka=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
