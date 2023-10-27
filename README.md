@@ -6,17 +6,12 @@
 </div>
 
 - 📫 How to reach me **bellekmehmethan@gmail.com**
-<style>
-    th {
-        text-align: center;
-        vertical-align: middle;
-    }
-</style>
+
 - <table border="1">
     <thead>
         <tr style="height: 30px;">
             <th>Language</th>
-            <th>About Me</th>
+            <th style="text-align: center; vertical-align: middle;">About Me</th>
         </tr>
     </thead>
     <tbody>
