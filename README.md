@@ -7,6 +7,30 @@
 
 - 📫 How to reach me **bellekmehmethan@gmail.com**
 
+- <table border="1">
+    <thead>
+        <tr style="height: 30px;">
+            <th>Language</th>
+            <th>About Me</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
   Experience has been gained in the field of software development using C#. Active roles have been taken in projects using ASP.Net technology and modern front-end toolkits. Work has been conducted using the MSSQL database. During the educational process, an internship was completed using Java, and during this period, familiarity was gained with the Spring Boot technology and experience was obtained with the PostgreSQL database. Through the ability to quickly adapt to new technologies, strong teamwork skills, and analytical thinking, successful results have been achieved in both individual and team projects.
 ## 🌐 Socials:
 <p align="left">
