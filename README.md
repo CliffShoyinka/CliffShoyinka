@@ -16,16 +16,18 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png"></td>
+            <td>Experience has been gained in software development using C#. Active roles have been taken in projects utilizing the ASP.Net Core framework technology, and MVC and portal projects have been developed. Work has been carried out using modern front-end toolsets and the MSSQL database. During the educational process, an internship was completed using Java, and familiarity was gained with the Spring Boot technology during this period, along with experience with the PostgreSQL database. With the ability to quickly adapt to new technologies, strong teamwork skills, analytical thinking, and the capability to work under pressure, successful results have been achieved in both individual and team projects.
+</td>
         </tr>
         <tr>
             <td></td>
-            <td></td>
+            <td>Yazılım geliştirme alanında C# kullanılarak deneyim kazanılmıştır. ASP.Net Core framework teknolojisini kullanan projelerde aktif roller alınmıştır, MVC ve portal projeleri geliştirilmiştir ve modern ön yüz araç setleriyle çalışılmıştır. MSSQL veritabanı kullanılarak çalışma yürütülmüştür. Eğitim süreci sırasında Java kullanılarak bir staj tamamlanmıştır ve bu dönemde Spring Boot teknolojisiyle tanışıklık kazanılmış ve PostgreSQL veritabanıyla deneyim edinilmiştir. Yeni teknolojilere hızla uyum sağlama yeteneği, güçlü takım çalışması becerileri, analitik düşünme ve baskı altında çalışabilme özelliği ile hem bireysel hem de takım projelerinde başarılı sonuçlar elde edilmiştir.</td>
         </tr>
         <tr>
             <td></td>
-            <td></td>
+            <td>Erfahrung wurde in der Softwareentwicklung mit C# gesammelt. Aktive Rollen wurden in Projekten übernommen, die die ASP.Net Core Framework-Technologie nutzen, und es wurden MVC- und Portalprojekte entwickelt. Die Arbeit wurde mit modernen Frontend-Toolsets und der MSSQL-Datenbank durchgeführt. Während des Bildungsprozesses wurde ein Praktikum mit Java absolviert, und in dieser Zeit wurde die Spring Boot-Technologie kennengelernt und Erfahrung mit der PostgreSQL-Datenbank gesammelt. Mit der Fähigkeit, sich schnell an neue Technologien anzupassen, starken Teamarbeit-Fähigkeiten, analytischem Denken und der Fähigkeit, unter Druck zu arbeiten, wurden sowohl in Einzel- als auch in Teamprojekten erfolgreiche Ergebnisse erzielt.
+</td>
         </tr>
     </tbody>
 </table>
