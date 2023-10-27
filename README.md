@@ -4,7 +4,7 @@
 <div align="center">
   <img height="300" src="https://media3.giphy.com/media/wf4HoLAYT39FrbD7Gh/giphy.gif?cid=6c09b952q3ifcyoj1qev5bg63qn4e7hq2pjwpb0w8j5f78kd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
-- <table border="1">
+ <table border="1">
     <thead>
         <tr style="height: 30px;">
             <th>Language</th>
