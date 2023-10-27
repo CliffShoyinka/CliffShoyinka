@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehmethan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
+<div align="center">
+  <img height="300" src="https://media3.giphy.com/media/wf4HoLAYT39FrbD7Gh/giphy.gif?cid=6c09b952q3ifcyoj1qev5bg63qn4e7hq2pjwpb0w8j5f78kd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+</div>
+
 - 📫 How to reach me **bellekmehmethan@gmail.com**
 
   Experience has been gained in the field of software development using C#. Active roles have been taken in projects using ASP.Net technology and modern front-end toolkits. Work has been conducted using the MSSQL database. During the educational process, an internship was completed using Java, and during this period, familiarity was gained with the Spring Boot technology and experience was obtained with the PostgreSQL database. Through the ability to quickly adapt to new technologies, strong teamwork skills, and analytical thinking, successful results have been achieved in both individual and team projects.
@@ -10,10 +14,6 @@
 <a href="https://instagram.com/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cliffshoyinka" height="30" width="40" /></a>
 <a href="https://www.behance.net/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cliffshoyinka" height="30" width="40" /></a>
 </p>
-
-<div align="center">
-  <img height="300" src="https://media2.giphy.com/media/LxMRzuaCrO7NHjhkwV/giphy.gif"  />
-</div>
 
 # 💻 Tech Stack:
 <p align="left"> 
@@ -42,9 +42,7 @@
 </div>
 
 
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/wf4HoLAYT39FrbD7Gh/giphy.gif?cid=6c09b952q3ifcyoj1qev5bg63qn4e7hq2pjwpb0w8j5f78kd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
-</div>
+
 
 
 
