@@ -15,7 +15,7 @@
     <tbody>
       <tr>
           <td>E-mail</td>
-          <td>**bellekmehmethan@gmail.com**</td>
+          <td>bellekmehmethan@gmail.com</td>
       </tr>
         <tr>
             <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"></td>
