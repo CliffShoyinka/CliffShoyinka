@@ -9,12 +9,14 @@
         <tr style="height: 30px;">
             <th>Language</th>
             <th style="text-align: center; vertical-align: middle;">About Me</th>
+          <a> style="text-align: center; vertical-align: middle;" </a>
         </tr>
     </thead>
     <tbody>
       <tr>
-          <td>E-mail</td>
-          <td>bellekmehmethan@gmail.com</td>
+        
+          <td> <a>E-mail</a> </td>
+          <td> <a>bellekmehmethan@gmail.com</a> </td>
       </tr>
         <tr>
             <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"></td>
