@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmethan</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
+<h3 align="center">Contact: bellekmehmethan@gmail.com</h3>
 
 <div align="center">
   <img height="300" src="https://media3.giphy.com/media/wf4HoLAYT39FrbD7Gh/giphy.gif?cid=6c09b952q3ifcyoj1qev5bg63qn4e7hq2pjwpb0w8j5f78kd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
@@ -13,10 +14,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="text-align: center; vertical-align: middle;">E-mail</td>
-            <td style="text-align: center; vertical-align: middle;">bellekmehmethan@gmail.com</td>
-        </tr>
+        
         <tr>
             <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"></td>
             <td>Experience has been gained in software development using C#. Active roles have been taken in projects utilizing the ASP.Net Core framework technology, and MVC and portal projects have been developed. Work has been carried out using modern front-end toolsets and the MSSQL database. During the educational process, an internship was completed using Java, and familiarity was gained with the Spring Boot technology during this period, along with experience with the PostgreSQL database. With the ability to quickly adapt to new technologies, strong teamwork skills, analytical thinking, and the capability to work under pressure, successful results have been achieved in both individual and team projects.
