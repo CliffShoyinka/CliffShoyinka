@@ -16,9 +16,8 @@
     <tbody>
         
         <tr>
-            <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"></td>
-            <td>Experience has been gained in software development using C#. Active roles have been taken in projects utilizing the ASP.Net Core framework technology, and MVC and portal projects have been developed. Work has been carried out using modern front-end toolsets and the MSSQL database. During the educational process, an internship was completed using Java, and familiarity was gained with the Spring Boot technology during this period, along with experience with the PostgreSQL database. With the ability to quickly adapt to new technologies, strong teamwork skills, analytical thinking, and the capability to work under pressure, successful results have been achieved in both individual and team projects.
-</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"></td>
+            <td>Experience has been gained in software development using C#. Active roles have been taken in projects utilizing the ASP.Net Core framework technology, and MVC and portal projects have been developed. Work has been carried out using modern front-end toolsets and the MSSQL database. During the educational process, an internship was completed using Java, and familiarity was gained with the Spring Boot technology during this period, along with experience with the PostgreSQL database. With the ability to quickly adapt to new technologies, strong teamwork skills, analytical thinking, and the capability to work under pressure, successful results have been achieved in both individual and team projects.</td>
         </tr>
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png"></td>
