@@ -27,7 +27,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png" alt="Turkey Flag" width="50" height="30">
             </td>
             <td>
-                Yazılım geliştirme alanında C# kullanılarak deneyim kazanılmıştır...
+                Yazılım geliştirme alanında C# kullanılarak deneyim kazanılmıştır. ASP.Net Core framework teknolojisi kullanan projelerde aktif roller alınmış, MVC ve portal projeleri geliştirilmiştir. Çalışmalar, modern ön yüz araçları ve MSSQL veritabanı kullanılarak gerçekleştirilmiştir. Eğitim süreci boyunca Java kullanılarak bir staj tamamlanmış, bu dönemde Spring Boot teknolojisi ile tanışılmış ve PostgreSQL veritabanı üzerinde deneyim kazanılmıştır. Yeni teknolojilere hızla adapte olabilme, güçlü takım çalışması yetenekleri, analitik düşünme ve baskı altında çalışabilme kapasitesi sayesinde hem bireysel hem de takım projelerinde başarılı sonuçlar elde edilmiştir.
             </td>
         </tr>
         <tr>
@@ -35,7 +35,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" alt="Germany Flag" width="50" height="30">
             </td>
             <td>
-                Erfahrung wurde in der Softwareentwicklung mit C# gesammelt...
+                In der Softwareentwicklung wurde Erfahrung mit der Verwendung von C# gesammelt. Aktive Rollen wurden in Projekten übernommen, die die ASP.Net Core Framework-Technologie nutzen, und es wurden sowohl MVC- als auch Portalprojekte entwickelt. Die Arbeiten wurden mit modernen Frontend-Tools und der MSSQL-Datenbank durchgeführt. Während des Bildungsprozesses wurde ein Praktikum mit Java abgeschlossen, in dieser Zeit wurde die Spring Boot-Technologie kennengelernt und Erfahrung mit der PostgreSQL-Datenbank gesammelt. Dank der Fähigkeit, sich schnell an neue Technologien anzupassen, starken Teamfähigkeiten, analytischem Denken und der Kapazität, unter Druck zu arbeiten, wurden sowohl in Einzel- als auch in Teamprojekten erfolgreiche Ergebnisse erzielt.
             </td>
         </tr>
     </tbody>
