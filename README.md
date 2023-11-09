@@ -19,7 +19,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png" alt="UK Flag" width="50" height="30">
             </td>
             <td>
-                Experience has been gained in software development using C#. Active roles have been taken in projects utilizing the ASP.Net Core framework technology, and MVC and portal projects have been developed. Work has been carried out using modern front-end toolsets and the MSSQL database. During the educational process, an internship was completed using Java, and familiarity was gained with the Spring Boot technology during this period, along with experience with the PostgreSQL database. With the ability to quickly adapt to new technologies, strong teamwork skills, analytical thinking, and the capability to work under pressure, successful results have been achieved in both individual and team projects.
+                Experience was gained in software development using C#. Inventory management and data control projects were developed using T-SQL and procedures, with the use of the ASP.Net Core framework technology. Work was done using modern frontend toolsets, and MSSQL databases were utilized. During the educational process, an internship was conducted using Java, and experience with the Spring Boot technology and PostgreSQL database was acquired. The ability to quickly adapt to new technologies, strong teamwork skills, analytical thinking, and the ability to work under pressure led to successful outcomes in both individual and team projects.
             </td>
         </tr>
         <tr>
@@ -27,7 +27,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png" alt="Turkey Flag" width="50" height="30">
             </td>
             <td>
-                Yazılım geliştirme alanında C# kullanılarak deneyim kazanılmıştır. ASP.Net Core framework teknolojisi kullanan projelerde aktif roller alınmış, MVC ve portal projeleri geliştirilmiştir. Çalışmalar, modern ön yüz araçları ve MSSQL veritabanı kullanılarak gerçekleştirilmiştir. Eğitim süreci boyunca Java kullanılarak bir staj tamamlanmış, bu dönemde Spring Boot teknolojisi ile tanışılmış ve PostgreSQL veritabanı üzerinde deneyim kazanılmıştır. Yeni teknolojilere hızla adapte olabilme, güçlü takım çalışması yetenekleri, analitik düşünme ve baskı altında çalışabilme kapasitesi sayesinde hem bireysel hem de takım projelerinde başarılı sonuçlar elde edilmiştir.
+                C# kullanarak yazılım geliştirme konusunda deneyim kazanıldı. Envanter yönetimi ve veri kontrol projeleri, ASP.Net Core çerçeve teknolojisi kullanılarak T-SQL ve prosedürler kullanılarak geliştirildi. Çalışma, modern ön uç araç setleri kullanılarak yapıldı ve MSSQL veritabanlarından yararlanıldı. Eğitim sürecinde Java kullanılarak staj yapılarak Spring Boot teknolojisi ve PostgreSQL veritabanı konusunda deneyim edinildi. Yeni teknolojilere hızlı uyum sağlama, güçlü takım çalışması becerisi, analitik düşünme ve baskı altında çalışabilme yeteneği, hem bireysel hem de ekip projelerinde başarılı sonuçlar alınmasını sağlamıştır.
             </td>
         </tr>
         <tr>
@@ -35,7 +35,7 @@
                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" alt="Germany Flag" width="50" height="30">
             </td>
             <td>
-                In der Softwareentwicklung wurde Erfahrung mit der Verwendung von C# gesammelt. Aktive Rollen wurden in Projekten übernommen, die die ASP.Net Core Framework-Technologie nutzen, und es wurden sowohl MVC- als auch Portalprojekte entwickelt. Die Arbeiten wurden mit modernen Frontend-Tools und der MSSQL-Datenbank durchgeführt. Während des Bildungsprozesses wurde ein Praktikum mit Java abgeschlossen, in dieser Zeit wurde die Spring Boot-Technologie kennengelernt und Erfahrung mit der PostgreSQL-Datenbank gesammelt. Dank der Fähigkeit, sich schnell an neue Technologien anzupassen, starken Teamfähigkeiten, analytischem Denken und der Kapazität, unter Druck zu arbeiten, wurden sowohl in Einzel- als auch in Teamprojekten erfolgreiche Ergebnisse erzielt.
+                Es wurden Erfahrungen in der Softwareentwicklung mit C# gesammelt. Bestandsverwaltungs- und Datenkontrollprojekte wurden unter Verwendung von T-SQL und -Prozeduren unter Verwendung der ASP.Net Core-Framework-Technologie entwickelt. Gearbeitet wurde mit modernen Frontend-Toolsets und es kamen MSSQL-Datenbanken zum Einsatz. Während des Ausbildungsprozesses wurde ein Praktikum in Java absolviert und Erfahrungen mit der Spring Boot-Technologie und der PostgreSQL-Datenbank gesammelt. Die Fähigkeit, sich schnell an neue Technologien anzupassen, starke Teamfähigkeit, analytisches Denken und die Fähigkeit, unter Druck zu arbeiten, führten zu erfolgreichen Ergebnissen sowohl bei Einzel- als auch bei Teamprojekten.
             </td>
         </tr>
     </tbody>
