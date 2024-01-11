@@ -43,79 +43,92 @@
 
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/cliff-shoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmethan bellek" height="30" width="40" /></a>
-<a href="https://instagram.com/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cliffshoyinka" height="30" width="40" /></a>
-<a href="https://www.behance.net/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cliffshoyinka" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/cliff-shoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmethan bellek" height="60" width="80" /></a>
+<a href="https://instagram.com/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cliffshoyinka" height="60" width="80" /></a>
+<a href="https://www.behance.net/cliffshoyinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="cliffshoyinka" height="60" width="80" /></a>
 </p>
 
 # 💻 Tech Stack:
-### Language  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+
+<div align="center">
+
+  <table border="2">
+    <thead>
+        <tr style="height: 30px;">
+            <th></th>
+            <th style="text-align: center; vertical-align: middle;">Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 
+                Languages
+            </td>
+            <td>
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="50" height="50">
+                <img src="https://www.cdnlogo.com/logos/c/27/c.svg" alt="Csharp" width="50" height="50">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScirpt" width="50" height="50">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Backend
+            </td>
+            <td>
+                <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="spring" width="50" height="50">
+                <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="springboot" width="50" height="50">
+                <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg" alt="aspdotnet" width="50" height="50">
+                <img src="https://image.pngaaa.com/668/4547668-small.png" alt="nodejs" width="50" height="60">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typrscript" width="50" height="50">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Frontend
+            </td>
+            <td>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="Germany Flag" width="50" height="50">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Germany Flag" width="50" height="50">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Germany Flag" width="60" height="50">
+                <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Germany Flag" width="60" height="50">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Germany Flag" width="60" height="50">
+            </td>
+        </tr>
+      <tr>
+            <td>
+                Databases
+            </td>
+            <td>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="Germany Flag" width="50" height="50">
+                <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="Germany Flag" width="60" height="50">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="Germany Flag" width="50" height="50">
+            </td>
+        </tr>
+      <tr>
+            <td>
+                Git
+            </td>
+            <td>
+                <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Germany Flag" width="50" height="50">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>  
-
-
-
-### Database  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-<br/>  
 
 <br/>  
 
-
-<br/>  
-
-
-<br/>  
-
-
-<br/>  
-
-<br />
-   
-
-###
 
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CliffShoyinka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CliffShoyinka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
+
+###
 
 
 
